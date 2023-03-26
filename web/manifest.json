@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
     "name": "la_derniere_fois",
     "short_name": "la_derniere_fois",
-=======
-    "name": "starter",
-    "short_name": "starter",
->>>>>>> origin/master
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

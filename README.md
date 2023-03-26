@@ -1,20 +1,33 @@
-<<<<<<< HEAD
-# la_derniere_fois
-=======
-# starter
->>>>>>> origin/master
+# Weather App
 
-A new Flutter project.
+Welcome to my Weather App ! 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Before you begin, please make sure you have installed Flutter and Dart SDK on your system. Here are the links to the installation guides:
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter installation guide](https://docs.flutter.dev/get-started/install/)
+- [Dart installation guide](https://dart.dev/get-dart)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Running the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Once you have installed Flutter and Dart SDK, you can run the app by following these steps:
+
+1. Open the `main.dart` file located in the `lib` directory.
+2. Execute the file.
+3. That's it! You can now enter a city name and press the + button to see its current weather, as well as daily and weekly forecasts with temperature and weather details.
+4. It's recommended to launch it with Chrome so you can change resolution per devices.
+
+Currently, the generated apk doesn't seems to work on virtual and physical devices. I have no idea how to resolve this problem.
+But it's still available on desktop with visual studio code and in debug option though.
+
+
+PS: in case you want to build another APK. Here's the command:
+
+    flutter build apk --release
+
+Thank you for using my Weather App!
+
+[Join me on Github !](https://github.com/MathisBrou)
+
+ [Mathis Brouard](https://github.com/MathisBrou)
